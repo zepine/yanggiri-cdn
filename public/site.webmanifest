@@ -1,0 +1,38 @@
+{
+    "lang": "ko-KR",
+    "name": "양기 마을",
+    "short_name": "양기리",
+    "description": "양기리에서 사는 이야기",
+    "categories": [
+        "코딩",
+        "coding",
+        "gardening",
+        "텃밭",
+        "running",
+        "달리기",
+        "러닝",
+        "조깅",
+        "걷기",
+        "김치요리",
+        "kimchi",
+        "양기리",
+        "안성",
+        "경기도"
+    ],
+    "icons": [
+        {
+            "src": "/assets/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "theme_color": "#3eaf7c",
+    "background_color": "#3eaf7c",
+    "display": "standalone"
+}
